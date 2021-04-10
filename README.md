@@ -1,2 +1,2 @@
 # weatherApp_2
-second
+Second trying for blog posting and understanding deeply

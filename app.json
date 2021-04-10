@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Learning React native + expo by building the WeatherApp",
+    "githubUrl": "https://github.com/seonghyeon955/weatherApp_2"
   }
 }
